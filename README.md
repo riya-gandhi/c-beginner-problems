@@ -1,2 +1,3 @@
-# c-beginner-problems
-Programs for the Course: Programming in C++ by professor Dr. Partha Pratim, IIT Kharagpur on swayam platform
+# Problem Solving through Programming in C
+Programs for the Course: Problem Solving through Programming in C by Prof. Anupam Basu, IIT Kharagpur, NPTEL
+https://nptel.ac.in/courses/106105171
